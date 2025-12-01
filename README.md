@@ -74,3 +74,13 @@ I focus on:
 - clarity
 - simplicity
 - business impact
+
+## Getting Started
+
+Each folder contains small examples of real data work:
+
+/sql → reporting queries and optimization patterns  
+/python → data cleaning and simple automation scripts  
+
+This repository will grow with more real examples over time.
+
