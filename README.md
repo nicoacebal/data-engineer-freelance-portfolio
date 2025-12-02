@@ -84,3 +84,14 @@ Each folder contains small examples of real data work:
 
 This repository will grow with more real examples over time.
 
+
+
+## Case Studies
+
+This repository also contains real-world inspired case studies:
+
+- SQL performance optimization
+- ETL design and migration
+
+Located in `/case_studies`
+
